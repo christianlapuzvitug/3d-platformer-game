@@ -1,11 +1,6 @@
-# Contributing to 3D Platformer Game
+# Contributing to taho-vendor-simulator
 
-Thank you for considering contributing to the 3D Platformer Game project! We appreciate your support and are excited to collaborate with developers from all over.
-
-## Development Guidelines
-- **Clone the repository:** `git clone https://github.com/<owner>/3d-platformer-game.git`
-- **Create a new branch:** Always create a new branch for your feature or bug fix. Use descriptive names for your branches (e.g., `feature/add-jumping-mechanic` or `bugfix/fix-collision-issue`).
-- **Testing:** Make sure to write tests for new features and to run existing tests to ensure your changes do not break the project.
+Thank you for considering contributing to the taho-vendor-simulator project! We appreciate your support and are excited to collaborate with developers from all over.
 
 ## Code Standards
 - **Language:** Follow the coding conventions of the language used in the project.
@@ -19,4 +14,4 @@ Thank you for considering contributing to the 3D Platformer Game project! We app
 4. **Push to your fork:** Push your changes to your forked repository.
 5. **Submit a pull request:** Go to the original repository and submit a pull request from your fork.
 
-Thank you for contributing! We look forward to your contributions and improvements to the 3D Platformer Game.
+Thank you for contributing! We look forward to your contributions and improvements to the taho-vendor-simulator.
